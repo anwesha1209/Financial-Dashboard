@@ -13,3 +13,5 @@ Customizable reports for financial performance tracking
 
 Microsoft Excel (Pivot Tables, Charts, Formulas)
 Power Query for data cleaning & transformation
+
+<img width="1441" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/2780a0ed-0286-418f-84e3-8ea3cfff6818" />
